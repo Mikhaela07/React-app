@@ -1,0 +1,13 @@
+.content{
+    grid-area: c;
+    background-color:#2048E4;
+}
+ .content img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width:30%;
+}  
+.item{
+    color:yellow;
+}
